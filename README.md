@@ -43,3 +43,7 @@ This space is designed to be read linearly, so start with our Vision, Mission & 
 If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
 
 </details>
+
+_<mark style="color:blue;background-color:yellow;">**Note**</mark>_: If you want to contribute and update information in this page about Legal issues and DevOps  you can use the following link to learn about how to create blocks&#x20;
+
+{% embed url="http://docs.gitbook.com/content-editor/blocks" %}
